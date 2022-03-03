@@ -16,5 +16,6 @@ We are actively hiring the following positions:
 
 ## 👑 For empoyees
 * [Start onboarding]()
+* [General documentation](https://github.com/ottofeller/docs)
 * [Points of contact]()
 * [Lost credentials]().
