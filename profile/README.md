@@ -9,7 +9,7 @@ Our rich and modern toolstack allows us solving any tasks in a quick and efficie
 We are actively hiring the following positions:
 * Backend developer (TS/RUST, AWS)
 * Full-stack developer (Next.js, React)
-* Copywriter (tecр and IT niches)
+* Copywriter (tech and IT niches)
 * Marketing director (with experience of working in tech).
 
 [More details](https://ottofeller.com/careers).
