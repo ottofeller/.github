@@ -11,7 +11,7 @@ We are actively hiring the following positions:
 * Full-stack developer (Next.js, React)
 * Copywriter (teci and IT niches).
 
-For more details please visit [Careers section](https://ottofeller.com/careers) on our website.
+[More details](https://ottofeller.com/careers).
 
 ## 👑 For empoyees
 * [Start onboarding]()
