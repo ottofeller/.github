@@ -10,7 +10,7 @@ We are actively hiring the following positions:
 * Backend developer (TS/RUST, AWS)
 * Full-stack developer (Next.js, React)
 * Copywriter (tech and IT niches)
-* Marketing director (with experience of working in tech).
+* Marketing director (with experience in tech).
 
 [More details](https://ottofeller.com/careers).
 
