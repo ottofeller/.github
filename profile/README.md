@@ -7,7 +7,7 @@ Our rich and modern toolstack allows us solving any tasks in a quick and efficie
 
 ## 🧑‍💻 Careers
 We are actively hiring the following positions:
-* Backend developer (TS/RUST, AWS)
+* Backend developer (TS/Rust, AWS)
 * Full-stack developer (Next.js, React)
 * Copywriter (tech and IT niches)
 * Marketing director (with experience in tech).
