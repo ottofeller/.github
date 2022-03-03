@@ -3,7 +3,7 @@
 ## 👋 About us
 We specialize in full-stack development of tailor-made web apps and platforms, we like to say that we build online businesses and digital SaaS-products. Creating custom solutions personalized for each client is our biggest motivation.
 
-Our expertise makes us confident in building full-stack SaaS products of different industries. Although we are most experienced in FinTech, among our works are E-Commerce, live events, and even social projects.
+Our rich and modern toolstack allows us solving any tasks in a quick and efficient way. We prefer staying very close to the bleeding edge of the technology, but always within the range of reliability and stability.
 
 ## 🧑‍💻 Careers
 We are actively hiring the following positions:
