@@ -14,7 +14,7 @@ We are actively hiring the following positions:
 
 [More details](https://ottofeller.com/careers).
 
-## 👑 For empoyees
+## 👑 For employees
 * [Start onboarding]()
 * [General documentation](https://github.com/ottofeller/docs)
 * [Points of contact]()
