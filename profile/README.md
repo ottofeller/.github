@@ -15,7 +15,7 @@ We are actively hiring the following positions:
 [More details](https://ottofeller.com/careers).
 
 ## 👑 For employees
-* [Start onboarding]()
-* [General documentation](https://github.com/ottofeller/docs)
-* [Points of contact]()
-* [Lost credentials]().
+* [Start onboarding](https://github.com/ottofeller/docs/blob/master/start-onboarding.md)
+* [Documentation portal](https://github.com/ottofeller/docs)
+* [Points of contact](https://github.com/ottofeller/docs/blob/master/start-onboarding.md#-communication)
+* [Lost credentials](mailto:artem@ottofeller.com).
