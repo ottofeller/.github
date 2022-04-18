@@ -7,8 +7,9 @@ Our rich and modern toolstack allows us solving any tasks in a quick and efficie
 
 ## 🧑‍💻 Careers
 We are actively hiring the following positions:
-* Backend developer (TS/Rust, AWS)
-* Full-stack developer (Next.js, React)
+* Engineering manager (tech background, TypeScript, AWS)
+* Backend developer (TypeScript/Rust, AWS, GraphQL)
+* Full-stack developer (TypeScript, React, Next.js, GraphQL)
 * Copywriter (tech and IT niches)
 * Marketing director (with experience in tech).
 
